@@ -1,4 +1,4 @@
-     H*DFTACTGRP(*NO) ACTGRP(*NEW)
+     H DFTACTGRP(*NO) ACTGRP(*NEW)
       *
      D inet_addr       PR            10U 0 ExtProc('inet_addr')
      D  address_str                    *   value options(*string)
@@ -45,10 +45,5 @@
      c                   endif
 
      c*                  dsply                   Msg
-     c*                  eval      *inlr = *on
-     c*                  eval      *inlr = *on
-     c*                  eval      *inlr = *on
-     c*                  eval      *inlr = *on
-     c*                  eval      *inlr = *on
      c*                  eval      *inlr = *on
      c                   return
