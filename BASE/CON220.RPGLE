@@ -45,5 +45,4 @@
      c                   endif
 
      c*                  dsply                   Msg
-     c*                  eval      *inlr = *onXXXXXX
      c                   return
