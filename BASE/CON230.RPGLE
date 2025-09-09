@@ -46,6 +46,7 @@
 
      c*                  dsply                   Msg
      c*                  eval      *inlr = *onXXXXXX
-     c*                  eval      *inlr = *on
+     c*                  eval      *inlr = *onXXXXXX
+     c*                  eval      *inlr = *onXXXXXX
 
      c                   return
